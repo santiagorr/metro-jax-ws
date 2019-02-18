@@ -469,7 +469,6 @@
                                     com.sun.xml.ws.wsdl.parser;version=${project.version},
                                     com.sun.xml.ws.wsdl.writer;version=${project.version},
                                     com.sun.xml.xsom.parser;version=${jaxb-xjc.version},
-                                    javax.activation,
                                     javax.annotation.processing,
                                     javax.jws,
                                     javax.jws.soap,
